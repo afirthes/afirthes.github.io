@@ -1,5 +1,5 @@
 ---
-title: Как актуализировать изменения в Common модуле
+title: Как актуализировать изменения в общих модулях без pull request.
 author: afirthes
 date: 2022-09-14 22:35:00 +0800
 categories: [Git]
