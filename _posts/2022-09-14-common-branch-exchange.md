@@ -141,7 +141,7 @@ a - b - c - d  Main
 
 ```console
 $ git checkout main
-$git cherry-pick f
+$ git cherry-pick f
 ```
 
 В результате получаем следующую картину:
